@@ -1,5 +1,5 @@
 # penguinvoice
-An all in one invoicing platform intergated with local and internation payment provider
+An all in one invoicing platform intergated with local and international payment provider
 
 Work in progress...
 
